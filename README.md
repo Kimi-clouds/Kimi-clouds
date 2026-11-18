@@ -82,10 +82,9 @@ const hinaa = {
 
 ## 🧰 Tech Stack
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,linux,git,github" />
+</p>
 
 ---
 
@@ -95,10 +94,30 @@ const hinaa = {
   <img src="https://github-readme-stats.vercel.app/api?username=HinaaSaleem&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaaSaleem&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HinaaSaleem&theme=tokyonight" />
+</p>
+
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hinaa-saleem-393b50247)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hinaa-saleem-393b50247">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<sub>Pixel art by <a href="https://metinseven.com">Metin Seven</a></sub>
+---
+
+## 🐾 Contribution Graph
+<p align="center">
+  <img src="pacman-contribution-graph-dark.svg" width="100%" />
+</p>
