@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kimi-clouds&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/stars/Kimi-clouds?style=flat&label=Stars&color=yellow" />
-  <img src="https://img.shields.io/github/followers/Kimi-clouds?style=flat&label=Followers&color=4c1" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kimi-clouds&label=PROFILE%20VIEWS&color=8a2be2&style=for-the-badge" />
@@ -78,8 +73,6 @@ const kimi = {
 | 🔒 Cybersecurity & Zero Trust | 🔄 In progress |
 | 🐧 Linux Basics | 🔄 In progress |
 | 🌐 Networking | 🔄 In progress |
-| 🏅 AZ-900 | ✅ Completed |
-| 🏅 SC-900 | ✅ Completed |
 | 🎯 AZ-104 | 🔄 In progress |
 | 🎯 AZ-500 | ⏳ Up next |
 
