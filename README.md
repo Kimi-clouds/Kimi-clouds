@@ -26,7 +26,7 @@
 
 <img src="7068792e676966.gif" align="right" width="300" />
 
-📌 **Azure Cloud Security Engineer** in transition<br>
+📌 **Azure Cloud Security Engineer**<br>
 📍 Based in Pakistan<br>
 🏅 Microsoft Certified: **AZ-900** and **SC-900**<br>
 📚 Currently preparing for **AZ-104**<br>
@@ -106,14 +106,7 @@ const kimi = {
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hinaa-saleem-393b50247">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/hinaa-saleem-393b50247"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://discord.com/users/1385940552868036680"> <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
 ---
 
