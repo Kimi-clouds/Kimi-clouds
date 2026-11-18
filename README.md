@@ -119,5 +119,6 @@ const hinaa = {
 
 ## 🐾 Contribution Graph
 <p align="center">
-  <img src="pacman-contribution-graph-dark.svg" width="100%" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/HinaaSaleem/HinaaSaleem/output/pacman-contribution-graph-dark.svg" />
 </p>
+
