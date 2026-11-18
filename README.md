@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HinaaSaleem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9FB3AD&center=true&vCenter=true&width=700&lines=I%27m+Hinaa+Saleem;Azure+Security+Engineer" alt="Typing animation" />
+  <a href="https://github.com/Kimi-clouds">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9FB3AD&center=true&vCenter=true&width=700&lines=I%27m+Hina+Saleem;Azure+Security+Engineer" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HinaaSaleem&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/stars/HinaaSaleem?style=flat&label=Stars&color=yellow" />
-  <img src="https://img.shields.io/github/followers/HinaaSaleem?style=flat&label=Followers&color=4c1" />
+  <img src="https://komarev.com/ghpvc/?username=Kimi-clouds&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/Kimi-clouds?style=flat&label=Stars&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Kimi-clouds?style=flat&label=Followers&color=4c1" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HinaaSaleem&label=PROFILE%20VIEWS&color=8a2be2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/HinaaSaleem?style=for-the-badge&label=STARS&color=gold" />
-  <img src="https://img.shields.io/github/followers/HinaaSaleem?style=for-the-badge&label=FOLLOWERS&color=4c1" />
+  <img src="https://komarev.com/ghpvc/?username=Kimi-clouds&label=PROFILE%20VIEWS&color=8a2be2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Kimi-clouds?style=for-the-badge&label=STARS&color=gold" />
+  <img src="https://img.shields.io/github/followers/Kimi-clouds?style=for-the-badge&label=FOLLOWERS&color=4c1" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <img src="7068792e676966.gif" align="right" width="300" />
 
-📌 **Azure Cloud Security Engineer**<br>
+📌 **Azure Cloud Security Engineer** in transition<br>
 📍 Based in Pakistan<br>
 🏅 Microsoft Certified: **AZ-900** and **SC-900**<br>
 📚 Currently preparing for **AZ-104**<br>
@@ -49,7 +49,7 @@
 ## 📚 Learning Journey
 
 ```js
-const hinaa = {
+const kimi = {
   focus: ["Cloud Security", "Azure", "Ethical Hacking"],
   current: "AZ-104: Azure Administrator",
   completed: [
@@ -91,15 +91,15 @@ const hinaa = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HinaaSaleem&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimi-clouds&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaaSaleem&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi-clouds&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HinaaSaleem&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Kimi-clouds&theme=tokyonight" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ const hinaa = {
 ---
 
 ## 🐾 Contribution Graph
-<p align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/HinaaSaleem/HinaaSaleem/output/pacman-contribution-graph-dark.svg" />
-</p>
 
+<p align="center">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kimi-clouds/Kimi-clouds/output/pacman-contribution-graph-dark.svg" />
+</p>
