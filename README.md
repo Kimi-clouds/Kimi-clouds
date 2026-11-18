@@ -1,45 +1,104 @@
-# Hinaa Saleem 👋
+<p align="center">
+  <img src="header_img.jpg" width="100%" />
+</p>
 
-## Aspiring Azure Security Engineer | Cloud + Security
+<p align="center">
+  <a href="https://github.com/HinaaSaleem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Hinaa;Azure+Cloud+Security+Engineer" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HinaaSaleem&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/HinaaSaleem?style=flat&label=Stars&color=yellow" />
+  <img src="https://img.shields.io/github/followers/HinaaSaleem?style=flat&label=Followers&color=4c1" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HinaaSaleem&label=PROFILE%20VIEWS&color=8a2be2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/HinaaSaleem?style=for-the-badge&label=STARS&color=gold" />
+  <img src="https://img.shields.io/github/followers/HinaaSaleem?style=for-the-badge&label=FOLLOWERS&color=4c1" />
+</p>
 
 ---
 
-### 🔐 About Me
+## ✨ About Me
 
-```javascript
+<img src="7068792e676966.gif" align="right" width="300" />
+
+📌 **Azure Cloud Security Engineer**<br>
+📍 Based in Pakistan<br>
+🏅 Microsoft Certified: **AZ-900** and **SC-900**<br>
+📚 Currently preparing for **AZ-104**<br>
+🎯 Goal: remote freelance work in cloud security<br>
+<br>
+🔥 I'm building my career in cloud security from scratch, focusing on Azure, identity and access, Zero Trust, and hands-on practice through labs and TryHackMe.
+
+<br clear="right"/>
+
+---
+
+## 🏅 Certifications
+
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900-Security_Compliance_Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-In_Progress-orange?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📚 Learning Journey
+
+```js
 const hinaa = {
   focus: ["Cloud Security", "Azure", "Ethical Hacking"],
-  current: "Course 2: Azure Fundamentals",
+  current: "AZ-104: Azure Administrator",
   completed: [
+    "✅ AZ-900: Azure Fundamentals",
+    "✅ SC-900: Security, Compliance & Identity Fundamentals",
     "✅ Course 1: Cloud & Cybersecurity",
     "✅ TryHackMe: Offensive Security",
     "✅ TryHackMe: Defensive Security",
     "✅ TryHackMe: What is Networking?"
   ]
 };
-### 📚 Currently Learning
-
-| Category | Topics |
-|----------|--------|
-| **Cloud** |Microsoft Azure (AZ-900 → AZ-500) |
-| **Security** | Cybersecurity fundamentals, Zero Trust |
-| **Hands-on** | TryHackMe (Pre Security path) |
-| **Tools** | GitHub, Linux basics, Networking |
+```
 
 ---
 
-### 🛠️ Skills Building
+## 🛠️ Skills Building
 
 | Skill | Status |
 |-------|--------|
 | ☁️ Microsoft Azure | 🔄 In progress |
-| 🔒 Cybersecurity | 🔄 In progress |
+| 🔒 Cybersecurity & Zero Trust | 🔄 In progress |
 | 🐧 Linux Basics | 🔄 In progress |
 | 🌐 Networking | 🔄 In progress |
-| 🎯 AZ-500 Certification | ⏳ Up next |
+| 🏅 AZ-900 | ✅ Completed |
+| 🏅 SC-900 | ✅ Completed |
+| 🎯 AZ-104 | 🔄 In progress |
+| 🎯 AZ-500 | ⏳ Up next |
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-![Hinaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HinaaSaleem&show_icons=true&theme=dark)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HinaaSaleem&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hinaa-saleem-393b50247)
+
+<sub>Pixel art by <a href="https://metinseven.com">Metin Seven</a></sub>
