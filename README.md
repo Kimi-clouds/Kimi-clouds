@@ -83,7 +83,7 @@ const kimi = {
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,git,github" />
 </p>
 
 ---
@@ -100,6 +100,9 @@ const kimi = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kimi-clouds&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kimi-clouds&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
