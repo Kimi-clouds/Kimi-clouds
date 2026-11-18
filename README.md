@@ -19,7 +19,7 @@
 
 ## ✨ About Me
 
-<img src="7068792e676966.gif" align="right" width="300" />
+<img src="7068792e676966 (2).gif" align="right" width="300" />
 
 📌 **Azure Cloud Security Engineer**<br>
 📍 Based in Pakistan<br>
