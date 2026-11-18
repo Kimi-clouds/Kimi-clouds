@@ -108,8 +108,12 @@ const kimi = {
 ---
 
 ## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hinaa-saleem-393b50247"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/1385940552868036680"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/Kimi"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/hinaa-saleem-393b50247"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://discord.com/users/1385940552868036680"> <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
 ---
 
