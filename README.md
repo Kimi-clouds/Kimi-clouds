@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/HinaaSaleem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Hinaa;Azure+Cloud+Security+Engineer" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&lines=I%27m+Hinaa;Azure+Security+Engineer" alt="Typing animation" />
   </a>
 </p>
 
