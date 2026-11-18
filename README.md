@@ -62,6 +62,11 @@ const kimi = {
   ]
 };
 ```
+<p align="center">
+  <a href="https://tryhackme.com/p/Kimi">
+    <img src="https://cdn-images.tryhackme.com/public-profile/Kimi/c4b8151e84d9.png" width="500" />
+  </a>
+</p>
 
 ---
 
